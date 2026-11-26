@@ -1,4 +1,4 @@
-# Yaroslav-Sivkov
+# Yaroslav Sivkov
 
 ### Data Scientist · Machine Learning · Model Validation · NLP · LLMs
 
