@@ -1,9 +1,7 @@
 # Yaroslav Sivkov
 
 ### Data Scientist · Machine Learning · Model Validation · NLP · LLMs
-
 ---
-
 ## Projects
 
 - [**Concept Drift Detection in Streaming ML**](https://github.com/skrxttyy/Concept-Drift-Detection-in-Streaming-ML) — developed an online learning pipeline for detecting concept drift in streaming data; compared ADWIN, DDM and Page-Hinkley detectors, implementing adaptive updates and improving prequential accuracy from 0.76 to 0.82.
