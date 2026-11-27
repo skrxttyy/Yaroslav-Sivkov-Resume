@@ -4,14 +4,14 @@
 ---
 ## Projects
 
-- [**Concept Drift Detection in Streaming ML**](https://github.com/skrxttyy/Concept-Drift-Detection-in-Streaming-ML) — developed an online learning pipeline for detecting concept drift in streaming data; compared ADWIN, DDM and Page-Hinkley detectors, implementing adaptive updates and improving prequential accuracy from 0.76 to 0.82.
+- [**Concept Drift Detection in Streaming ML**](https://github.com/skrxttyy/Concept-Drift-Detection-in-Streaming-ML) — River, Online Learning, ADWIN, DDM, Page-Hinkley  
+  • Developed a concept drift detection pipeline with online ML model adaptation. Implemented Test-Then-Train and benchmarked three detectors across 24 experimental runs using Prequential Accuracy, Detection Delay, F1 and FPR. Improved accuracy from 0.638 to 0.903 under abrupt drift.
 
-- [**ExplainBench — Explainability Benchmarking Framework**](https://github.com/skrxttyy/ExplainBench-Explainability-Benchmarking-Framework) — built a comparative benchmarking platform for SHAP, LIME and Permutation Importance, investigating explanation quality, consistency and stability.
+- [**Counterfactual Prediction & Uplift**](https://github.com/skrxttyy/Counterfactual-Prediction-Uplift) — DoWhy, EconML, Causal Forests, Cross-Fitting  
+  • Developed a pipeline for ATE/CATE estimation and comparative benchmarking of six causal inference models. Implemented Cross-Fitting, independent Train/Test splits and Fold-local Preprocessing. Evaluated performance using PEHE and ATE Error, achieving a PEHE of 0.318 with the PyTorch model.
 
-- [**Counterfactual Prediction & Uplift**](https://github.com/skrxttyy/Counterfactual-Prediction-Uplift) — developed a causal inference pipeline for ATE/CATE estimation using DoWhy, EconML and Causal Forests; applied cross-fitting to reduce estimation bias, improving PEHE from 0.45 to 0.31.
+- [**SupportRAG — RAG Evaluation & Monitoring Framework**](https://github.com/skrxttyy/Support-RAG) — Python, PyTorch, FAISS, Hugging Face, FastAPI, MLflow, DVC, Docker, Grafana  
+  • Developed a RAG pipeline with hybrid BM25 + Dense Retrieval, RRF and Cross-Encoder Reranking. Implemented comprehensive evaluation using Recall@K, MRR, nDCG, Bootstrap CI and paired statistical tests. Added LLM-as-Judge with validation against human annotations using Cohen's Kappa, as well as Data Drift monitoring with MMD, PSI and OOV.
 
-- [**CreditGuard — Credit Scoring Model Validation**](https://github.com/skrxttyy/CreditGuard-Advanced-Credit-Scoring-Model-Validation) — developed a machine learning system for credit risk assessment, focusing on credit scoring and predictive model evaluation.
-
-- [**RAGBench — Advanced RAG Evaluation Framework**](https://github.com/skrxttyy/RAGBench-Advanced-RAG-Evaluation-Framework) — developed an evaluation framework for Retrieval-Augmented Generation systems, focusing on retrieval quality, context relevance and systematic assessment of RAG pipelines.
-
-- [**RareEvent Intelligence — Imbalanced Learning & Fraud Detection**](https://github.com/skrxttyy/RareEvent-Intelligence-Imbalanced-Learning-Fraud-Detection) — developed an ML pipeline for rare event detection using gradient boosting ensembles, anomaly detection and cost-sensitive classification.
+- [**ExplainBench — Explainability Benchmarking Framework**](https://github.com/skrxttyy/ExplainBench-Explainability-Benchmarking-Framework) — SHAP, LIME, Permutation Importance  
+  • Developed a comparative benchmarking framework for SHAP, LIME and Permutation Importance. Implemented evaluation of explanation quality, consistency and stability, analyzing feature attribution reliability across different models and perturbations.
