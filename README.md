@@ -15,3 +15,7 @@
 
 - [**ExplainBench — Explainability Benchmarking Framework**](https://github.com/skrxttyy/ExplainBench-Explainability-Benchmarking-Framework) — SHAP, LIME, Permutation Importance  
   • Developed a comparative benchmarking framework for SHAP, LIME and Permutation Importance. Implemented evaluation of explanation quality, consistency and stability, analyzing feature attribution reliability across different models and perturbations.
+
+## Portfolio export
+
+Project links are stored in `data/projects.json`. Generate the static page with `python scripts/export.py`; open `site/index.html`. Run checks with `python -m unittest discover -s tests -v`. Python standard library only. Existing resume text is preserved.

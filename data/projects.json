@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Concept Drift Detection in Streaming ML",
+    "url": "https://github.com/skrxttyy/Concept-Drift-Detection-in-Streaming-ML"
+  },
+  {
+    "name": "Counterfactual Prediction & Uplift",
+    "url": "https://github.com/skrxttyy/Counterfactual-Prediction-Uplift"
+  },
+  {
+    "name": "SupportRAG \u2014 RAG Evaluation & Monitoring Framework",
+    "url": "https://github.com/skrxttyy/Support-RAG"
+  },
+  {
+    "name": "ExplainBench \u2014 Explainability Benchmarking Framework",
+    "url": "https://github.com/skrxttyy/ExplainBench-Explainability-Benchmarking-Framework"
+  }
+]
